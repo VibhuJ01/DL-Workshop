@@ -1,0 +1,26 @@
+<annotation>
+	<folder>notfire</folder>
+	<filename>541.jpg</filename>
+	<path>C:\Users\jainv\OneDrive\Desktop\notfire\541.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>334</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>brightspot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>267</xmin>
+			<ymin>230</ymin>
+			<xmax>283</xmax>
+			<ymax>246</ymax>
+		</bndbox>
+	</object>
+</annotation>

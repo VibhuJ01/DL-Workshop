@@ -1,0 +1,38 @@
+<annotation>
+	<folder>New folder</folder>
+	<filename>352.jpg</filename>
+	<path>C:\Users\sivaprasath\Downloads\281 - 360 images\New folder\352.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>572</width>
+		<height>380</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>brightspot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>418</xmin>
+			<ymin>25</ymin>
+			<xmax>436</xmax>
+			<ymax>41</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>brightspot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>273</xmin>
+			<ymin>25</ymin>
+			<xmax>298</xmax>
+			<ymax>42</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>fire</folder>
+	<filename>10.jpg</filename>
+	<path>/home/bhavya/Documents/vscode/python/projects/fire/10.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Fire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>286</xmin>
+			<ymin>168</ymin>
+			<xmax>381</xmax>
+			<ymax>310</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>fire</folder>
+	<filename>Datacluster Fire and Smoke Sample (70).jpg</filename>
+	<path>C:\Users\mp851\Desktop\Github\DL-Workshop\fire\Datacluster Fire and Smoke Sample (70).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>1280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>65</xmin>
+			<ymin>352</ymin>
+			<xmax>891</xmax>
+			<ymax>522</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>smoke</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>104</xmin>
+			<ymin>1</ymin>
+			<xmax>833</xmax>
+			<ymax>446</ymax>
+		</bndbox>
+	</object>
+</annotation>

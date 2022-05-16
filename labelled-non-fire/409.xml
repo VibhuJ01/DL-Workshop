@@ -1,0 +1,38 @@
+<annotation>
+	<folder>notfire</folder>
+	<filename>409.jpg</filename>
+	<path>C:\Users\jainv\OneDrive\Desktop\Fire Detection\DL-Workshop\notfire\409.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3861</width>
+		<height>2574</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>brightspot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1173</xmin>
+			<ymin>611</ymin>
+			<xmax>1300</xmax>
+			<ymax>711</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>brightspot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1708</xmin>
+			<ymin>1703</ymin>
+			<xmax>1762</xmax>
+			<ymax>1767</ymax>
+		</bndbox>
+	</object>
+</annotation>

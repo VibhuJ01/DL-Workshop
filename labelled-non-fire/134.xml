@@ -1,0 +1,26 @@
+<annotation>
+	<folder>labelled-non-fire</folder>
+	<filename>134.jpg</filename>
+	<path>C:\Users\jainv\OneDrive\Desktop\Fire Detection\DL-Workshop\labelled-non-fire\134.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>940</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>brightspot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>574</xmin>
+			<ymin>439</ymin>
+			<xmax>582</xmax>
+			<ymax>448</ymax>
+		</bndbox>
+	</object>
+</annotation>

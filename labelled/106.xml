@@ -1,26 +1,26 @@
 <annotation>
-	<folder>labelled</folder>
-	<filename>1.jpg</filename>
-	<path>C:\Users\jainv\OneDrive\Desktop\Fire Detection\DL-Workshop\labelled\1.jpg</path>
+	<folder>fire</folder>
+	<filename>106.jpg</filename>
+	<path>C:\Users\jainv\OneDrive\Desktop\Fire Detection\DL-Workshop\fire\106.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>852</width>
-		<height>480</height>
+		<width>595</width>
+		<height>335</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>Fire</name>
+		<name>fire</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>299</xmin>
-			<ymin>143</ymin>
-			<xmax>581</xmax>
-			<ymax>238</ymax>
+			<xmin>4</xmin>
+			<ymin>236</ymin>
+			<xmax>201</xmax>
+			<ymax>309</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>126</xmin>
-			<ymin>15</ymin>
-			<xmax>225</xmax>
-			<ymax>72</ymax>
+			<xmin>214</xmin>
+			<ymin>159</ymin>
+			<xmax>402</xmax>
+			<ymax>211</ymax>
 		</bndbox>
 	</object>
 </annotation>
